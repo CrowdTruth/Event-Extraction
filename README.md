@@ -29,8 +29,8 @@ The data is structured as follows:
 ## Crowdsourcing Templates
 The following crowdsourcing templates have been used in the aforementioned article. We use the same experiment notation as in the article. To check each crowdsourcing annotation template, click on the small template icon. The image will open in a new tab.
 
-| EXP. TYPE| ENTITY TYPE | CROWDSOURCING ANNOTATION TEMPLATE (click to enlarge) | INPUT ENTITY VALUES | ANNOTATION GUIDELINES | TARGET ANNOTATION |               
-|:---:|:----------:|:--------:|:---------------------------:|:--------------------:|:------------------------:|:----------:|
+| EXP. TYPE| ENTITY TYPE | CROWDSOURCING ANNOTATION TEMPLATE (click to enlarge) | INPUT ENTITY VALUES | ANNOTATION GUIDELINES  | TARGET ANNOTATION |               
+|:---:|:----------:|:--------:|:---------------------------:|:--------------------:|:------------------------:|
 |P1|   Event  | ![Fig.1: Pilot 1 - Event.](https://raw.githubusercontent.com/CrowdTruth/Event-Extraction/master/templates/P1_event.png)| Experts (P) & Tools | Explicit Definition |  Entities |
 |P1|   Time  | ![Fig.2: Pilot 1 - Time.](https://raw.githubusercontent.com/CrowdTruth/Event-Extraction/master/templates/P1_time.png)| Experts (P) & Tools | Explicit Definition |  Entities |
 |P2|   Event   | ![Fig.3: Pilot 2 - Event.](https://raw.githubusercontent.com/CrowdTruth/Event-Extraction/master/templates/P2_event.png) |  Experts (P) & Tools | Explicit Definition |  Entities + Motivation (NONE) |
