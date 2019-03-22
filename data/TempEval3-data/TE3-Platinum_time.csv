@@ -1,0 +1,139 @@
+Doc Id,Sentence Id,Time Expression Id,End Offset,Is Time Expression,Lemma Stanford,Lowercase Lemma Stanford,Lowercase Token,POS Tag Stanford,Pos,Start Offset,Time Expression Id.1,Time Expression Type,Time Expression Value,Token,Token Id Doc,Token Id Sent,Token POS,Lemma POS
+AP_20130322,1,t1,32,1,a month,a month,a month,DT NN,DT NN,25,t1,B-DURATION,P1M,a month,26 27,5 6,a-DT month-NN,a-DT month-NN
+AP_20130322,1,t2,112,1,a decade,a decade,a decade,DT NN,DT NN,104,t2,B-DURATION,P10Y,a decade,41 42,20 21,a-DT decade-NN,a-DT decade-NN
+AP_20130322,3,t3,58,1,the last week,the last week,the last week,DT JJ NN,DT JJ NN,45,t3,B-DATE,2013-W11,the last week,78 79 80,9 10 11,the-DT last-JJ week-NN,the-DT last-JJ week-NN
+AP_20130322,3,t4,146,1,Friday,friday,friday,NNP,NN,140,t4,B-DATE,2013-03-22,Friday,99,30,friday-NN,friday-NN
+AP_20130322,5,t5,48,1,2009,2009,2009,CD,CD,44,t5,B-DATE,2009,2009,119,9,2009-CD,2009-CD
+AP_20130322,5,t6,55,1,2010,2010,2010,CD,CD,51,t6,B-DATE,2010,2010,121,11,2010-CD,2010-CD
+AP_20130322,6,t8,98,1,each season,each season,each season,DT NN,DT NN,87,t8,B-SET,XXXX-WI,each season,143 144,16 17,each-DT season-NN,each-DT season-NN
+AP_20130322,8,t9,9,1,this year,this year,this year,DT NN,DT NN,0,t9,B-DATE,XXXX-WI,This year,187 188,1 2,this-DT year-NN,this-DT year-NN
+AP_20130322,12,t10,110,1,the past several month,the past several month,the past several months,DT JJ JJ NNS,DT JJ JJ NN,87,t10,B-DURATION,PXM,the past several months,273 274 275 276,16 17 18 19,the-DT past-JJ several-JJ months-NN,the-DT past-JJ several-JJ month-NN
+AP_20130322,13,t11,65,1,recent season,recent season,recent season,JJ NN,JJ NN,52,t11,B-SET,XXXX-WI,recent season,288 289,11 12,recent-JJ season-NN,recent-JJ season-NN
+AP_20130322,14,t12,41,1,early December,early december,early december,JJ NNP,JJ NN,27,t12,B-DATE,2012-12,early December,296 297,6 7,early-JJ december-NN,early-JJ december-NN
+AP_20130322,14,t13,51,1,a month,a month,a month,DT NN,DT NN,44,t13,B-DURATION,P1M,a month,299 300,9 10,a-DT month-NN,a-DT month-NN
+AP_20130322,14,t14,102,1,the end of year,the end of year,the end of year,DT NN IN NN,DT NN IN NN,87,t14,B-DATE,2012,the end of year,308 309 310 311,18 19 20 21,the-DT end-NN of-IN year-NN,the-DT end-NN of-IN year-NN
+bbc_20130322_1150,0,t1,75,1,1953,1953,1953,CD,CD,71,t1,B-DATE,1953,1953,13,13,1953-CD,1953-CD
+bbc_20130322_1150,1,t2,46,1,Wednesday,wednesday,wednesday,NNP,NN,37,t2,B-DATE,2013-03-20,Wednesday,31,10,wednesday-NN,wednesday-NN
+bbc_20130322_1150,2,t3,117,1,1953,1953,1953,CD,CD,113,t3,B-DATE,1953,1953,66,22,1953-CD,1953-CD
+bbc_20130322_1150,4,t4,64,1,1957,1957,1957,CD,CD,60,t4,B-DATE,1957,1957,101,11,1957-CD,1957-CD
+bbc_20130322_1150,4,t5,69,1,58,58,58,CD,CD,67,t5,B-DATE,1958,58,103,13,58-CD,58-CD
+bbc_20130322_1150,6,t6,27,1,1995,1995,1995,CD,CD,23,t6,B-DATE,1995,1995,135,6,1995-CD,1995-CD
+bbc_20130322_1150,6,t7,114,1,100 day,100 day,100 days,CD NNS,CD NN,106,t7,B-DURATION,P100D,100 days,153 154,24 25,100-CD days-NN,100-CD day-NN
+bbc_20130322_1150,6,t8,150,1,the 99th day,the 99th day,the 99th day,DT CD NN,DT CD NN,138,t8,B-DATE,XXXX-XX-XX,the 99th day,161 162 163,32 33 34,the-DT 99th-CD day-NN,the-DT 99th-CD day-NN
+bbc_20130322_1150,13,t9,136,1,2005,2005,2005,CD,CD,132,t9,B-DATE,2005,2005,289,25,2005-CD,2005-CD
+bbc_20130322_1150,15,t10,132,1,May,may,may,NNP,NN,129,t10,B-DATE,2013-05,May,351,28,may-NN,may-NN
+bbc_20130322_1150,16,t11,95,1,60 year,60 year,60 years,CD NNS,CD NN,87,t11,B-DURATION,P60Y,60 years,371 372,19 20,60-CD years-NN,60-CD year-NN
+bbc_20130322_1150,17,t12,80,1,20th Century,20th century,20th century,JJ NNP,JJ NN,68,t12,B-DATE,19,20th Century,395 396,14 15,20th-JJ century-NN,20th-JJ century-NN
+bbc_20130322_1150,18,t13,23,1,1984,1984,1984,CD,CD,19,t13,B-DATE,1984,1984,421,4,1984-CD,1984-CD
+bbc_20130322_1150,19,t14,84,1,last June,last june,last june,JJ NNP,JJ NN,75,t14,B-DATE,2012-06,last June,463 464,15 16,last-JJ june-NN,last-JJ june-NN
+bbc_20130322_1353,5,t1,11,1,the past,the past,the past,DT NN,DT NN,3,t1,B-DATE,PAST_REF,the past,110 111,2 3,the-DT past-NN,the-DT past-NN
+bbc_20130322_1353,6,t2,170,1,May 2010,may 2010,may 2010,NNP CD,NN CD,162,t2,B-DATE,2010-05,May 2010,165 166,31 32,may-NN 2010-CD,may-NN 2010-CD
+bbc_20130322_1353,8,t3,128,1,at the time,at the time,at the time,IN DT NN,IN DT NN,117,t3,B-DATE,PAST_REF,at the time,221 222 223,22 23 24,at-IN the-DT time-NN,at-IN the-DT time-NN
+bbc_20130322_1353,10,t4,47,1,Friday afternoon,friday afternoon,friday afternoon,NNP NN,NN NN,31,t4,B-TIME,2013-03-22TAF,Friday afternoon,249 250,6 7,friday-NN afternoon-NN,friday-NN afternoon-NN
+bbc_20130322_1600,3,t1,95,1,15:00 GMT Saturday,15:00 gmt saturday,15:00 gmt saturday,CD NNP NNP,CD NN NN,77,t1,B-TIME,2013-03-23T15:00,15:00 GMT Saturday,76 77 78,13 14 15,15:00-CD gmt-NN saturday-NN,15:00-CD gmt-NN saturday-NN
+bbc_20130322_1600,5,t2,27,1,a week,a week,a week,DT NN,DT NN,21,t2,B-DURATION,P1W,a week,110 111,5 6,a-DT week-NN,a-DT week-NN
+bbc_20130322_1600,6,t3,101,1,Friday,friday,friday,NNP,NN,95,t3,B-DATE,2013-03-22,Friday,136,17,friday-NN,friday-NN
+bbc_20130322_332,2,t1,79,1,October,october,october,NNP,NN,72,t1,B-DATE,2012-10,October,71,17,october-NN,october-NN
+bbc_20130322_332,3,t2,29,1,2003,2003,2003,CD,CD,25,t2,B-DATE,2003,2003,88,6,2003-CD,2003-CD
+bbc_20130322_332,6,t3,60,1,12,12,12,CD,CD,58,t3,B-DURATION,P12M,12,150,10,12-CD,12-CD
+bbc_20130322_332,6,t4,74,1,18 month,18 month,18 months,CD NNS,CD NN,65,t4,B-DURATION,P18M,18 months,152 153,12 13,18-CD months-NN,18-CD month-NN
+bbc_20130322_332,7,t5,10,1,2003,2003,2003,CD,CD,6,t5,B-DATE,2003,2003,159,3,2003-CD,2003-CD
+bbc_20130322_332,8,t6,28,1,the follow decade,the follow decade,the following decade,DT VBG NN,DT VB NN,8,t6,B-DURATION,P1DE,the following decade,185 186 187,3 4 5,the-DT following-VB decade-NN,the-DT follow-VB decade-NN
+bbc_20130322_332,10,t7,7,1,2011,2011,2011,CD,CD,3,t7,B-DATE,2011,2011,228,2,2011-CD,2011-CD
+bbc_20130322_332,12,t8,50,1,now,now,now,RB,RB,47,t8,B-DATE,PRESENT_REF,now,284,11,now-RB,now-RB
+bbc_20130322_332,13,t9,38,1,2008,2008,2008,CD,CD,34,t9,B-DURATION,2008,2008,321,7,2008-CD,2008-CD
+bbc_20130322_721,5,t1,65,1,Friday,friday,friday,NNP,NN,59,t1,B-DATE,2013-03-22,Friday,125,10,friday-NN,friday-NN
+bbc_20130322_721,5,t2,134,1,Thursday,thursday,thursday,NNP,NN,126,t2,B-DATE,2013-03-21,Thursday,135,20,thursday-NN,thursday-NN
+CNN_20130321_821,3,t1,17,1,tenure,tenure,tenure,NN,NN,11,t1,B-DURATION,P5Y,tenure,82,3,tenure-NN,tenure-NN
+CNN_20130322_1003,0,t1,62,1,last summer,last summer,last summer,JJ NN,JJ NN,51,t1,B-DATE,2012-SU,last summer,12 13,12 13,last-JJ summer-NN,last-JJ summer-NN
+CNN_20130322_1003,0,t2,109,1,Thursday,thursday,thursday,NNP,NN,101,t2,B-DATE,2013-03-21,Thursday,20,20,thursday-NN,thursday-NN
+CNN_20130322_1003,1,t3,118,1,late last July,late last july,late last july,RB JJ NNP,RB JJ NN,104,t3,B-DATE,2012-07,late last July,51 52 53,22 23 24,late-RB last-JJ july-NN,late-RB last-JJ july-NN
+CNN_20130322_1003,2,t4,12,1,several day,several day,several days,JJ NNS,JJ NN,0,t4,B-DURATION,PXD,Several days,62 63,1 2,several-JJ days-NN,several-JJ day-NN
+CNN_20130322_1003,3,t5,7,1,the day,the day,the day,DT NN,DT NN,0,t5,B-DATE,2012-XX-XX,The day,98 99,1 2,the-DT day-NN,the-DT day-NN
+CNN_20130322_1003,5,t6,46,1,early August,early august,early august,JJ NNP,JJ NN,34,t6,B-DATE,2012-08,early August,169 170,7 8,early-JJ august-NN,early-JJ august-NN
+CNN_20130322_1003,6,t7,24,1,Thursday,thursday,thursday,NNP,NN,16,t7,B-DATE,2013-03-21,Thursday,187,4,thursday-NN,thursday-NN
+CNN_20130322_1003,6,t8,110,1,90 day,90 day,90 days,CD NNS,CD NN,103,t8,B-DURATION,P90D,90 days,202 203,19 20,90-CD days-NN,90-CD day-NN
+CNN_20130322_1003,6,t9,135,1,five year `,five year `,five years `,CD NNS POS,CD NN POS,123,t9,B-DURATION,P5Y,five years `,207 208 209,24 25 26,five-CD years-NN `-POS,five-CD year-NN `-POS
+CNN_20130322_1003,8,t10,29,1,August,august,august,NNP,NN,23,t10,B-DATE,2012-08,August,253,6,august-NN,august-NN
+CNN_20130322_1003,8,t11,110,1,July,july,july,NNP,NN,106,t11,B-DATE,2012-07,July,269,22,july-NN,july-NN
+CNN_20130322_1003,11,t12,20,1,Sunday night,sunday night,sunday night,NNP NN,NN NN,8,t12,B-TIME,2012-WXX-7TNI,Sunday night,311 312,3 4,sunday-NN night-NN,sunday-NN night-NN
+CNN_20130322_1003,11,t13,28,1,8 pm,8 pm,8 pm,CD NN,CD NN,24,t13,B-TIME,2012-XX-XXT20,8 PM,314 315,6 7,8-CD pm-NN,8-CD pm-NN
+CNN_20130322_1003,11,t14,98,1,the day,the day,the day,DT NN,DT NN,91,t14,B-DATE,2012-XX-XX,the day,330 331,22 23,the-DT day-NN,the-DT day-NN
+CNN_20130322_1003,14,t15,57,1,August,august,august,NNP,NN,51,t15,B-DATE,2012-08,August,395,11,august-NN,august-NN
+CNN_20130322_1003,15,t16,135,1,Thursday,thursday,thursday,NNP,NN,127,t16,B-DATE,2013-03-21,Thursday,431,26,thursday-NN,thursday-NN
+CNN_20130322_1003,16,t17,24,1,now,now,now,RB,RB,21,t17,B-DATE,PRESENT_REF,now,438,6,now-RB,now-RB
+CNN_20130322_1003,18,t18,89,1,recent week,recent week,recent weeks,JJ NNS,JJ NN,77,t18,B-DURATION,PXW,recent weeks,459 460,14 15,recent-JJ weeks-NN,recent-JJ week-NN
+CNN_20130322_1243,0,t1,60,1,this week,this week,this week,DT NN,DT NN,51,t1,B-DATE,2013-W12,this week,10 11,10 11,this-DT week-NN,this-DT week-NN
+CNN_20130322_248,0,t1,17,1,Friday,friday,friday,NNP,NN,11,t1,B-DATE,2013-03-22,Friday,4,4,friday-NN,friday-NN
+CNN_20130322_248,1,t2,11,1,four-week,four-week,four-week,JJ,JJ,2,t2,B-DURATION,P4W,four-week,33,2,four-week-JJ,four-week-JJ
+CNN_20130322_248,1,t3,76,1,April 7,april 7,april 7,NNP CD,NN CD,69,t3,B-DATE,2013-04-07,April 7,45 46,14 15,april-NN 7-CD,april-NN 7-CD
+CNN_20130322_248,3,t4,13,1,Friday,friday,friday,NNP,NN,7,t4,B-DATE,2013-03-22,Friday,73,2,friday-NN,friday-NN
+CNN_20130322_248,4,t5,117,1,this fiscal year,this fiscal year,this fiscal year,DT JJ NN,DT JJ NN,101,t5,B-DATE,2013,this fiscal year,123 124 125,20 21 22,this-DT fiscal-JJ year-NN,this-DT fiscal-JJ year-NN
+CNN_20130322_314,0,t1,66,1,Friday,friday,friday,NNP,NN,60,t1,B-DATE,2013-03-22,Friday,9,9,friday-NN,friday-NN
+CNN_20130322_314,0,t2,196,1,2010,2010,2010,CD,CD,192,t2,B-DATE,2010,2010,29,29,2010-CD,2010-CD
+CNN_20130322_314,2,t3,145,1,minute,minute,minutes,NNS,NN,138,t3,B-DURATION,PXM,minutes,98,25,minutes-NN,minute-NN
+CNN_20130322_314,3,t4,47,1,second term,second term,second term,JJ NN,JJ NN,36,t4,B-DURATION,P4Y,second term,123 124,9 10,second-JJ term-NN,second-JJ term-NN
+nyt_20130321_china_pollution,0,t1,63,1,this month,this month,this month,DT NN,DT NN,53,t1,B-DATE,2013-03,this month,9 10,9 10,this-DT month-NN,this-DT month-NN
+nyt_20130321_china_pollution,4,t2,103,1,every morning,every morning,every morning,DT NN,DT NN,90,t2,B-SET,XXXX-XX-XXTMO,every morning,104 105,18 19,every-DT morning-NN,every-DT morning-NN
+nyt_20130321_china_pollution,6,t3,10,1,last month,last month,last month,JJ NN,JJ NN,0,t3,B-DATE,2013-02,Last month,160 161,1 2,last-JJ month-NN,last-JJ month-NN
+nyt_20130321_china_pollution,6,t4,215,1,year,year,years,NNS,NN,210,t4,B-DURATION,PXY,years,197,38,years-NN,year-NN
+nyt_20130321_china_pollution,7,t5,170,1,four year ago,four year ago,four years ago,CD NNS RB,CD NN RB,156,t5,B-DATE,2009,four years ago,223 224 225,25 26 27,four-CD years-NN ago-RB,four-CD year-NN ago-RB
+nyt_20130321_china_pollution,11,t6,7,1,2011,2011,2011,CD,CD,3,t6,B-DATE,2011,2011,272,2,2011-CD,2011-CD
+nyt_20130321_china_pollution,12,t7,10,1,Feb. 28,feb. 28,feb. 28,NNP CD,NN CD,3,t7,B-DATE,2013-02-28,Feb. 28,315 316,2 3,feb.-NN 28-CD,feb.-NN 28-CD
+nyt_20130321_china_pollution,12,t8,197,1,the next decade,the next decade,the next decade,DT JJ NN,DT JJ NN,182,t8,B-DURATION,P10Y,the next decade,345 346 347,32 33 34,the-DT next-JJ decade-NN,the-DT next-JJ decade-NN
+nyt_20130321_china_pollution,14,t9,103,1,2030,2030,2030,CD,CD,99,t9,B-DATE,2030,2030,409,20,2030-CD,2030-CD
+nyt_20130321_china_pollution,14,t10,128,1,now,now,now,RB,RB,125,t10,B-DATE,PRESENT_REF,now,415,26,now-RB,now-RB
+nyt_20130321_cyprus,4,t1,51,1,last year,last year,last year,JJ NN,JJ NN,42,t1,B-DATE,2012,last year,174 175,10 11,last-JJ year-NN,last-JJ year-NN
+nyt_20130321_cyprus,6,t2,115,1,2010,2010,2010,CD,CD,111,t2,B-DATE,2010,2010,251,18,2010-CD,2010-CD
+nyt_20130321_cyprus,9,t3,136,1,2008,2008,2008,CD,CD,132,t3,B-DATE,2008,2008,386,27,2008-CD,2008-CD
+nyt_20130321_cyprus,18,t4,50,1,this week,this week,this week,DT NN,DT NN,41,t4,B-DATE,2013-W12,this week,614 615,8 9,this-DT week-NN,this-DT week-NN
+nyt_20130321_cyprus,20,t5,216,1,2007,2007,2007,CD,CD,212,t5,B-DATE,2007,2007,728,39,2007-CD,2007-CD
+nyt_20130321_sarkozy,0,t1,54,1,Thursday,thursday,thursday,NNP,NN,46,t1,B-DATE,2013-03-21,Thursday,7,7,thursday-NN,thursday-NN
+nyt_20130321_sarkozy,0,t2,252,1,2007,2007,2007,CD,CD,248,t2,B-DATE,2007,2007,44,44,2007-CD,2007-CD
+nyt_20130321_sarkozy,4,t3,93,1,last May,last may,last may,JJ NNP,JJ NN,85,t3,B-DATE,2012-05,last May,139 140,16 17,last-JJ may-NN,last-JJ may-NN
+nyt_20130321_women_senate,0,t1,7,1,a hour,a hour,an hour,DT NN,DT NN,0,t1,B-DURATION,PT1H,An hour,1 2,1 2,an-DT hour-NN,a-DT hour-NN
+nyt_20130321_women_senate,3,t2,40,1,January day,january day,january day,NNP NN,NN NN,29,t2,B-DURATION,2011-01-XX,January day,89 90,6 7,january-NN day-NN,january-NN day-NN
+nyt_20130321_women_senate,3,t3,48,1,2011,2011,2011,CD,CD,44,t3,B-DATE,2011,2011,92,9,2011-CD,2011-CD
+nyt_20130321_women_senate,6,t4,15,1,the 90 year,the 90 year,the 90 years,DT CD NNS,DT CD NN,3,t4,B-DURATION,P90Y,the 90 years,138 139 140,2 3 4,the-DT 90-CD years-NN,the-DT 90-CD year-NN
+nyt_20130321_women_senate,6,t5,129,1,a mere 24 hour,a mere 24 hour,a mere 24 hours,DT JJ CD NNS,DT JJ CD NN,114,t5,B-DURATION,PT24H,a mere 24 hours,159 160 161 162,23 24 25 26,a-DT mere-JJ 24-CD hours-NN,a-DT mere-JJ 24-CD hour-NN
+nyt_20130321_women_senate,7,t6,31,1,now,now,now,RB,RB,28,t6,B-DATE,PRESENT_REF,now,178,6,now-RB,now-RB
+nyt_20130321_women_senate,7,t7,139,1,20th century,20th century,20th century,JJ NN,JJ NN,127,t7,B-DATE,19,20th century,198 199,26 27,20th-JJ century-NN,20th-JJ century-NN
+nyt_20130321_women_senate,8,t8,23,1,now,now,now,RB,RB,20,t8,B-DATE,PRESENT_REF,now,215,5,now-RB,now-RB
+nyt_20130321_women_senate,9,t9,185,1,annually,annually,annually,RB,RB,177,t9,B-SET,XXXX,annually,258,32,annually-RB,annually-RB
+nyt_20130321_women_senate,11,t10,53,1,last year,last year,last year,JJ NN,JJ NN,44,t10,B-DATE,2012,last year,312 313,10 11,last-JJ year-NN,last-JJ year-NN
+nyt_20130321_women_senate,15,t11,39,1,six year ago,six year ago,six years ago,CD NNS RB,CD NN RB,26,t11,B-DATE,2007,six years ago,390 391 392,6 7 8,six-CD years-NN ago-RB,six-CD year-NN ago-RB
+nyt_20130321_women_senate,20,t12,175,1,2010,2010,2010,CD,CD,171,t12,B-DATE,2010,2010,570,37,2010-CD,2010-CD
+nyt_20130321_women_senate,21,t13,9,1,this year,this year,this year,DT NN,DT NN,0,t13,B-DATE,2013,This year,584 585,1 2,this-DT year-NN,this-DT year-NN
+nyt_20130322_strange_computer,0,t1,11,1,digital,digital,digital,JJ,JJ,4,t1,B-DATE,PRESENT_REF,digital,2,2,digital-JJ,digital-JJ
+nyt_20130322_strange_computer,6,t2,3,1,now,now,now,RB,RB,0,t2,B-DATE,PRESENT_REF,Now,133,1,now-RB,now-RB
+nyt_20130322_strange_computer,6,t3,125,1,two year ago,two year ago,two years ago,CD NNS RB,CD NN RB,112,t3,B-DATE,2011,two years ago,152 153 154,20 21 22,two-CD years-NN ago-RB,two-CD year-NN ago-RB
+nyt_20130322_strange_computer,8,t4,214,1,today,today,today,NN,NN,209,t4,B-DATE,PRESENT_REF,today,242,38,today-NN,today-NN
+nyt_20130322_strange_computer,10,t5,212,1,now,now,now,RB,RB,209,t5,B-DATE,PRESENT_REF,now,311,40,now-RB,now-RB
+nyt_20130322_strange_computer,10,t6,223,1,week,week,weeks,NNS,NN,218,t6,B-DURATION,PXW,weeks,313,42,weeks-NN,week-NN
+WSJ_20130318_731,0,t1,43,1,2010,2010,2010,CD,CD,39,t1,B-DATE,2010,2010,7,7,2010-CD,2010-CD
+WSJ_20130318_731,1,t2,3,1,now,now,now,RB,RB,0,t2,B-DATE,PRESENT_REF,Now,36,1,now-RB,now-RB
+WSJ_20130318_731,3,t3,50,1,last year,last year,last year,JJ NN,JJ NN,41,t3,B-DATE,2012,last year,96 97,9 10,last-JJ year-NN,last-JJ year-NN
+WSJ_20130318_731,3,t4,91,1,three-month,three-month,three-month,JJ,JJ,80,t4,B-DURATION,P3M,three-month,103,16,three-month-JJ,three-month-JJ
+WSJ_20130318_731,4,t5,90,1,June,june,june,NNP,NN,86,t5,B-DATE,2013-06,June,128,15,june-NN,june-NN
+WSJ_20130318_731,8,t6,141,1,currently,currently,currently,RB,RB,132,t6,B-DATE,PRESENT_REF,currently,247,23,currently-RB,currently-RB
+WSJ_20130321_1145,3,t1,136,1,eight year,eight year,eight years,CD NNS,CD NN,125,t1,B-DURATION,P8Y,eight years,70 71,23 24,eight-CD years-NN,eight-CD year-NN
+WSJ_20130321_1145,3,t2,145,1,now,now,now,RB,RB,142,t2,B-DATE,PRESENT_REF,now,73,26,now-RB,now-RB
+WSJ_20130321_1145,5,t3,63,1,five year,five year,five years,CD NNS,CD NN,53,t3,B-DATE,P5Y,five years,114 115,11 12,five-CD years-NN,five-CD year-NN
+WSJ_20130321_1145,5,t4,151,1,2011,2011,2011,CD,CD,147,t4,B-DATE,2011,2011,131,28,2011-CD,2011-CD
+WSJ_20130321_1145,7,t5,98,1,early this year,early this year,early this year,RB DT NN,RB DT NN,83,t5,B-DATE,2013,early this year,184 185 186,19 20 21,early-RB this-DT year-NN,early-RB this-DT year-NN
+WSJ_20130321_1145,7,t6,227,1,almost seven year,almost seven year,almost seven years,RB CD NNS,RB CD NN,209,t6,B-DURATION,P7Y,almost seven years,209 210 211,44 45 46,almost-RB seven-CD years-NN,almost-RB seven-CD year-NN
+WSJ_20130321_1145,10,t7,9,1,two year,two year,two years,CD NNS,CD NN,0,t7,B-DURATION,P2Y,Two years,243 244,1 2,two-CD years-NN,two-CD year-NN
+WSJ_20130321_1145,11,t8,77,1,this month,this month,this month,DT NN,DT NN,67,t8,B-DATE,2013-03,this month,276 277,13 14,this-DT month-NN,this-DT month-NN
+WSJ_20130321_1145,12,t9,49,1,3:07:35,3:07:35,3:07:35,CD,CD,42,t9,B-DURATION,PT3H7M35S,3:07:35,291,9,3:07:35-CD,3:07:35-CD
+WSJ_20130321_1145,13,t10,85,1,day,day,days,NNS,NN,81,t10,B-DURATION,PXD,days,308,16,days-NN,day-NN
+WSJ_20130321_1145,13,t11,133,1,early 2011,early 2011,early 2011,JJ CD,JJ CD,123,t11,B-DATE,2011,early 2011,315 316,23 24,early-JJ 2011-CD,early-JJ 2011-CD
+WSJ_20130322_159,0,t1,62,1,Friday,friday,friday,NNP,NN,56,t1,B-DATE,2013-03-22,Friday,8,8,friday-NN,friday-NN
+WSJ_20130322_159,4,t2,63,1,May 2010,may 2010,may 2010,NNP CD,NN CD,55,t2,B-DATE,2010-05,May 2010,143 144,12 13,may-NN 2010-CD,may-NN 2010-CD
+WSJ_20130322_159,8,t3,109,1,the past two year,the past two year,the past two years,DT JJ CD NNS,DT JJ CD NN,91,t3,B-DURATION,P2Y,the past two years,288 289 290 291,19 20 21 22,the-DT past-JJ two-CD years-NN,the-DT past-JJ two-CD year-NN
+WSJ_20130322_159,9,t4,86,1,this week,this week,this week,DT NN,DT NN,77,t4,B-DATE,2013-W12,this week,321 322,15 16,this-DT week-NN,this-DT week-NN
+WSJ_20130322_159,10,t5,133,1,this week,this week,this week,DT NN,DT NN,124,t5,B-DATE,2013-W12,this week,361 362,22 23,this-DT week-NN,this-DT week-NN
+WSJ_20130322_804,0,t1,134,1,next year,next year,next year,JJ NN,JJ NN,125,t1,B-DATE,2014,next year,18 19,18 19,next-JJ year-NN,next-JJ year-NN
+WSJ_20130322_804,1,t2,212,1,next year,next year,next year,JJ NN,JJ NN,203,t2,B-DATE,2014,next year,83 84,36 37,next-JJ year-NN,next-JJ year-NN
+WSJ_20130322_804,3,t3,150,1,2009,2009,2009,CD,CD,146,t3,B-DATE,2009,2009,139,26,2009-CD,2009-CD
+WSJ_20130322_804,5,t4,80,1,the next few month,the next few month,the next few months,DT JJ JJ NNS,DT JJ JJ NN,61,t4,B-DURATION,PXM,the next few months,193 194 195 196,10 11 12 13,the-DT next-JJ few-JJ months-NN,the-DT next-JJ few-JJ month-NN
+WSJ_20130322_804,10,t5,18,1,next year,next year,next year,JJ NN,JJ NN,9,t5,B-DATE,2014,next year,280 281,2 3,next-JJ year-NN,next-JJ year-NN
