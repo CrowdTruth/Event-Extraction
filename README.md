@@ -16,15 +16,24 @@ If you find this data useful in your research, please consider citing:
 }
 ```
 
-## Running the notebooks
+## Running the notebooks to aggregate the crowdsourcing data:
 
 If you want to run and regenerate the results on your own, you need to install the stable version of the **crowdtruth** package from PyPI using:
 ```
 pip install crowdtruth
 ```
 
-The data is structured as follows:
+The notebooks to regenerate the results are found in the following folders: notebooks/Main Crowdsourcing Experiments and notebooks/Pilot Crowdsourcing Experiments (for main and respectively, pilot experiments).
 
+## The data is structured as follows in the repository:
+
+The raw crowdsourced data is found in the folders data/main_crowd_data/raw_data and data/pilot_crowd_data/raw_data (for main and respectively, pilot experiments).
+
+The data aggregated with CrowdTruth metrics and the evaluation against the expert annotations is available in the folders data/main_crowd_data/results and data/pilot_crowd_data/results (for main and respectively, pilot experiments).
+
+The TempEval-3 data is found in the folder data/TempEval3-data.
+
+The training and evaluation data, for each event-sentence threshold is found in the folder: data/Train-and-Test.
 
 ## Crowdsourcing Templates
 The following crowdsourcing templates have been used in the aforementioned article. We use the same experiment notation as in the article. To check each crowdsourcing annotation template, click on the small template icon. The image will open in a new tab.
